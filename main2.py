@@ -19,6 +19,7 @@ pdf.set_font(family="Helvetica", size=10)
 pdf.cell(w=0, h=12, txt="Hi There !", align="L",
          ln=1)
 
+
 pdf.add_page()
 
 pdf.set_font(family="Helvetica", style = "B", size=12)
